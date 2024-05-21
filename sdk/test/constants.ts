@@ -1,6 +1,7 @@
 import {MetadataAbiInput} from '../src';
 
 const a = 2;
+const b = 3;
 
 export const TEST_ABI: MetadataAbiInput[] = [
   {
